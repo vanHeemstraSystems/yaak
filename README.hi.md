@@ -8,7 +8,9 @@
 
 "याक ऑन जीथब" पर आधारित<https://github.com/yaakapp/app>
 
-"ग्रेग शियर - याक के संस्थापक" पर आधारित<https://schier.co/>
+Based on "Greg Schier - Founder of Yaak" at <https://schier.co/>
+
+"ग्रेग शियर - जीथब पर याक के संस्थापक" पर आधारित<https://github.com/gschier>
 
 ## 100 - परिचय
 
@@ -24,4 +26,4 @@
 
 ## 400 - निष्कर्ष
 
-देखना[README.md](./400/README.md)
+See [README.md](./400/README.md)
