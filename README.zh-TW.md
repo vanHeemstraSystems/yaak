@@ -1,4 +1,4 @@
-repository-name
+儲存庫名稱
 
 # 儲存庫名稱
 
@@ -14,7 +14,7 @@ repository-name
 
 ## 300 - 建立我們的應用程式
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 結論
 
