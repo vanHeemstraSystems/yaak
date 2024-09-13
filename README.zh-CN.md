@@ -1,4 +1,4 @@
-yaak
+是的
 
 # 是的
 
@@ -7,6 +7,8 @@ yaak
 基于“Yaak”<https://yaak.app>
 
 基于“Github 上的 Yaak”<https://github.com/yaakapp/app>
+
+基于“Greg Schier - Yaak 创始人”，网址为<https://schier.co/>
 
 ## 100 - 简介
 
@@ -18,7 +20,7 @@ yaak
 
 ## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 结论
 
