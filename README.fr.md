@@ -4,9 +4,11 @@ Ouais
 
 > Le client API pour les développeurs modernes : appelez les API REST, GraphQL et gRPC à partir d'une application simple et intuitive.
 
-Basé sur "Yaak" à<https://yaak.app>
+Based on "Yaak" at <https://yaak.app>
 
 Basé sur "Yaak sur Github" sur<https://github.com/yaakapp/app>
+
+D'après "Greg Schier - Fondateur de Yaak" sur<https://schier.co/>
 
 ## 100 - Introduction
 
