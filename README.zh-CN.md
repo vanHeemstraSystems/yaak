@@ -10,11 +10,13 @@
 
 基于“Greg Schier - Yaak 创始人”，网址为<https://schier.co/>
 
+基于“Greg Schier - Github 上 Yaak 的创始人”，网址为<https://github.com/gschier>
+
 ## 100 - 简介
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
