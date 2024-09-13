@@ -9,6 +9,8 @@ Based on "Yaak on Github" at https://github.com/yaakapp/app
 
 Based on "Greg Schier - Founder of Yaak" at https://schier.co/
 
+Based on "Greg Schier - Founder of Yaak on Github" at https://github.com/gschier
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
