@@ -7,6 +7,8 @@ Based on "Yaak" at https://yaak.app
 
 Based on "Yaak on Github" at https://github.com/yaakapp/app
 
+Based on "Greg Schier - Founder of Yaak" at https://schier.co/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
