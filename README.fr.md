@@ -1,8 +1,12 @@
-nom du référentiel
+Ouais
 
-# Nom du référentiel
+# Ouais
 
-Basé sur "ABC" à<https://www.abc.com/>
+> Le client API pour les développeurs modernes : appelez les API REST, GraphQL et gRPC à partir d'une application simple et intuitive.
+
+Basé sur "Yaak" à<https://yaak.app>
+
+Basé sur "Yaak sur Github" sur<https://github.com/yaakapp/app>
 
 ## 100 - Introduction
 
