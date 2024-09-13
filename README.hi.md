@@ -8,6 +8,8 @@
 
 "याक ऑन जीथब" पर आधारित<https://github.com/yaakapp/app>
 
+"ग्रेग शियर - याक के संस्थापक" पर आधारित<https://schier.co/>
+
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
