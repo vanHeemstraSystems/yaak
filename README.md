@@ -1,7 +1,11 @@
-repository-name
-# Repository Name
+yaak
+# Yaak
 
-Based on "ABC" at https://www.abc.com/
+> The API client for modern developers: Call REST, GraphQL, and gRPC APIs from a simple and intuitive app.
+
+Based on "Yaak" at https://yaak.app
+
+Based on "Yaak on Github" at https://github.com/yaakapp/app
 
 ## 100 - Introduction
 
