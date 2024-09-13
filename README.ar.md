@@ -2,7 +2,7 @@
 
 # نعم
 
-> The API client for modern developers: Call REST, GraphQL, and gRPC APIs from a simple and intuitive app.
+> عميل واجهة برمجة التطبيقات (API) للمطورين المعاصرين: اتصل بواجهات برمجة تطبيقات REST وGraphQL وgRPC من تطبيق بسيط وبديهي.
 
 بناء على "ياك" في<https://yaak.app>
 
@@ -10,9 +10,11 @@
 
 استنادًا إلى "جريج شير - مؤسس ياك" في<https://schier.co/>
 
+استنادًا إلى "جريج شير - مؤسس Yaak على Github" في<https://github.com/gschier>
+
 ## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
