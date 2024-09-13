@@ -1,8 +1,12 @@
-儲存庫名稱
+是的
 
-# 儲存庫名稱
+# Yaak
 
-基於“ABC”<https://www.abc.com/>
+> The API client for modern developers: Call REST, GraphQL, and gRPC APIs from a simple and intuitive app.
+
+基於“Yaak”<https://yaak.app>
+
+基於“Github 上的 Yaak”<https://github.com/yaakapp/app>
 
 ## 100 - 簡介
 
@@ -14,7 +18,7 @@
 
 ## 300 - 建立我們的應用程式
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
 ## 400 - 結論
 
